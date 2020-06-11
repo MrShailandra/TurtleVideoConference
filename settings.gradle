@@ -1,0 +1,2 @@
+rootProject.name='TurtleVideoConference'
+include ':app'

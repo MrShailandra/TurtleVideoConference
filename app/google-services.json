@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673435544310",
+    "firebase_url": "https://turtlevideoconffence.firebaseio.com",
+    "project_id": "turtlevideoconffence",
+    "storage_bucket": "turtlevideoconffence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673435544310:android:6831ec22f65329cfc09ad7",
+        "android_client_info": {
+          "package_name": "com.turtlesoftsolution.turtlevideoconference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673435544310-okfr2t53stonld71nhtmos3fjmp3ellm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turtlesoftsolution.turtlevideoconference",
+            "certificate_hash": "c52b36712ff03fda3a074efacb75ec39a8e5152e"
+          }
+        },
+        {
+          "client_id": "673435544310-8e86g5gnme6ai93ls1cbtkp1nqang7vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIu6yosJAzMLRUUDbHv6rRczl3yzqG1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673435544310-8e86g5gnme6ai93ls1cbtkp1nqang7vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
